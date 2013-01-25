@@ -36,5 +36,7 @@ gem 'puma'
 # Deploy with Capistrano
 # gem 'capistrano'
 
+gem 'foreman', :group => [:development]
+
 # To use debugger
 # gem 'debugger'
