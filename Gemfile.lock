@@ -55,6 +55,8 @@ GEM
     multi_json (1.5.0)
     pg (0.14.1)
     polyglot (0.3.3)
+    puma (1.6.3)
+      rack (~> 1.2)
     rack (1.4.4)
     rack-cache (1.2)
       rack (>= 0.4)
@@ -108,6 +110,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
   pg
+  puma
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
   sqlite3
